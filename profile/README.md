@@ -4,22 +4,15 @@ Welcome! We're the Biostatistics & Computational Biology Shared Resource at UF H
 
 ## What You'll Find Here
 
+Our repositories follow a naming convention to help you navigate:
+
 - **Shiny Applications** (`app-*`) - Interactive web tools for omics data analysis and visualization
 - **Analysis Pipelines** (`cb-*`) - Reproducible workflows for RNA-seq, ATAC-seq, and other omics data
 - **Resources** (`res-*`) - Presentations, workshops, and educational materials
 - **R Packages** (`pkg-*`) - Installable packages for bioinformatics analysis
 - **Project Repositories** (`proj-pi-*`) - Collaborative research projects
 
-## Finding What You Need
-
-Our repositories follow a naming convention to help you navigate:
-- `app-*` = Applications (mostly Shiny apps)
-- `cb-*` = Code bases and pipelines
-- `res-*` = Resources (presentations, workshops)
-- `pkg-*` = R packages
-- `proj-pi-*` = Analysis projects for UF Health Cancer Center PIs
-
-Browse by **topics/tags** to find repos by data type (rna-seq, atac-seq) or category (app, manuscript, codebase).
+Browse by **topics** to find repos by data type (rna-seq, atac-seq) or category (shiny-apps, manuscript, codebase).
 
 ## More Information
 
