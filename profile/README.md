@@ -1,4 +1,4 @@
-# UF Health Cancer Center Bioinformatics
+# UF Health Cancer Institute Bioinformatics
 
 Welcome! We're the Biostatistics & Computational Biology Shared Resource at UF Health Cancer Center. This GitHub organization hosts our bioinformatics tools, analysis pipelines, and resources for cancer omics research.
 
